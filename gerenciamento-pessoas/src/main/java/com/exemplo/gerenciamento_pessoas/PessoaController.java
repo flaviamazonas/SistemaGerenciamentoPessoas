@@ -1,8 +1,5 @@
-package com.exemplo.gerenciamento.pessoas.controller;
+package com.exemplo.gerenciamento.pessoas;
 
-import com.exemplo.gerenciamento.pessoas.dto.PessoaDTO;
-import com.exemplo.gerenciamento.pessoas.model.Pessoa;
-import com.exemplo.gerenciamento.pessoas.repository.PessoaRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
